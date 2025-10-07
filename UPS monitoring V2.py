@@ -22,9 +22,9 @@ import sys
 # ------------------------------
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_USER = "mancic12@gmail.com"
-EMAIL_PASS = "ojns hmzu oyvm euvv"  # 16-znamenkasti App Password
-TO_EMAIL = "mancic12@gmail.com"
+EMAIL_USER = "your_email@gmail.com"
+EMAIL_PASS = "your_password"  # 16-znamenkasti App Password
+TO_EMAIL = "your_email@gmail.com"
 
 # ------------------------------
 # Log file location (folder aplikacije)
@@ -109,3 +109,4 @@ while True:
         battery_start_time = None
 
     time.sleep(5)
+
